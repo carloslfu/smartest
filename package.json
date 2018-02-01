@@ -1,0 +1,28 @@
+{
+  "name": "smartest",
+  "version": "0.0.1",
+  "description": "Simple e2e integration tests and automatic screenshots with Puppeteer",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "integration",
+    "test",
+    "e2e"
+  ],
+  "author": "Carlos Galarza <carloslfu@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "lib/",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "@types/node": "^9.4.0",
+    "fs-jetpack": "^1.2.0",
+    "puppeteer": "^1.0.0",
+    "typescript": "^2.7.1"
+  }
+}
