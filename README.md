@@ -13,6 +13,12 @@ Simple e2e integration tests and automatic screenshots with Puppeteer
 - Run your app in dev env
 - In other console, run your e2e test command e.g. `node e2e`
 
+## Concepts
+
+### Page Object
+
+
+
 ## TODOs
 
 - Parametrize and make API work

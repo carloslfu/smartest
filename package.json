@@ -21,8 +21,12 @@
   ],
   "dependencies": {
     "@types/node": "^9.4.0",
+    "@types/puppeteer": "^1.0.0",
     "fs-jetpack": "^1.2.0",
     "puppeteer": "^1.0.0",
     "typescript": "^2.7.1"
+  },
+  "devDependencies": {
+    "ts-node": "^4.1.0"
   }
 }
